@@ -19,7 +19,7 @@ This is a simple Python program that lets you roll a virtual dice from the termi
 
 ## ▶️ How to Run the Program
 
-### Step 1: Make sure you have Python installed
+### Make sure you have Python installed
 
 ## 💡 Sample Output
 Press Enter to roll the dice : 
@@ -34,4 +34,5 @@ The result is 3
 Do you wanna play again?
 Enter y/n: y
 continues.....
+
 
