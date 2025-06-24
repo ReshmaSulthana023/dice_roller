@@ -23,6 +23,7 @@ This is a simple Python program that lets you roll a virtual dice from the termi
 
 ## 💡 Sample Output
 Press Enter to roll the dice : 
+
 ---The result displays in---
 5
 4
